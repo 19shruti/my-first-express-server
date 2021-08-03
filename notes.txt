@@ -1,0 +1,8 @@
+in hyper 
+1. pwd to see in which directory im in 
+2.cd ~ to get back directly to root directory 
+3. cd desktop/
+4. then mkdir (folder name) : to make a new folder  inside desktop
+5. touch express.js to create file inside (folder)
+6. install npm : command line :: npm init
+7. install express : commmand line ::  npm install express
